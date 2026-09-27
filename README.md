@@ -11,6 +11,6 @@ This repository contains my runtime components and configuration files.
 - `.gitconfig` - Git configuration
 - `install.sh` - Installation script
 
-##Installation
+## Installation
 
 chmod +x install.sh
